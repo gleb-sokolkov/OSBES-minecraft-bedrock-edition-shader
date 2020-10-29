@@ -130,5 +130,3 @@ I recomend you to use rooted device with installed Termux <span style="color:gre
 |                          |-            | paralax oclusion mapping      |<span style="color:orange">**planned**</span>|
 |                          |-            | optimizations                 |<span style="color:orange">**planned**</span>|
 |                          |-            | bugfixes                      |<span style="color:orange">**planned**</span>|
-
-test
